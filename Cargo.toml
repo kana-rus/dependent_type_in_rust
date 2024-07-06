@@ -1,0 +1,15 @@
+[package]
+name          = "dependent_type_in_rust"
+version       = "0.1.0"
+edition       = "2021"
+authors       = ["kanarus <kanarus786@gmail.com>"]
+documentation = "https://docs.rs/dependent_type_in_rust"
+homepage      = "https://crates.io/crates/dependent_type_in_rust"
+repository    = "https://github.com/kana-rus/dependent_type_in_rust"
+readme        = "README.md"
+license       = "MIT"
+description   = ""
+keywords      = []
+categories    = []
+
+[dependencies]
